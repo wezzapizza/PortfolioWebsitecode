@@ -156,43 +156,25 @@ h2 a:hover {
 
 .headings {
 	text-align: center;
-}
-
-.about .headings h1 {
-	text-align: center;
+	margin: 0 auto;
+	position: relative;
+	top: 30%;
+	width: 100%;
 	font-family: 'Montserrat';
 	font-weight: bold;
 	font-size: 30px;
-	position: absolute;
-	padding-left: 0;
-	top: 230px;
-	width: 100%;
 	color: #FFF;
-
 }
 
-.about .headings h2 {
+
+.client-list {
 	text-align: center;
 	font-family: 'Montserrat';
 	font-weight: bold;
-	font-size: 30px;
-	position: absolute;
-	top: 330px;
-	width: 100%;
-	color: #FFF;
-}
-
-.about .headings h3 {
-	text-align: center;
-	font-family: 'Montserrat';
-	font-weight: normal;
 	font-size: 20px;
-	position: absolute;
-	top: 380px;
 	width: 100%;
 	color: #FFF;
 }
-
 
  .projects .headings {
 	width: 100vw;
